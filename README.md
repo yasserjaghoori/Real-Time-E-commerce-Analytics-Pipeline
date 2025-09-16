@@ -165,4 +165,4 @@ The live dashboard displays:
 **Yasser Jaghoori**  
 Data Analytics Engineering Student  
 Email: jaghooya@outlook.com  
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: inkedin.com/in/yasser-jaghoori-565a30192/
